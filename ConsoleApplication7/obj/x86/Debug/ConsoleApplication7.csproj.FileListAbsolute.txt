@@ -1,0 +1,5 @@
+D:\StudyMaterials\4.Semester\C#\Programming\ConsoleApplication7\ConsoleApplication7\bin\Debug\ConsoleApplication7.exe
+D:\StudyMaterials\4.Semester\C#\Programming\ConsoleApplication7\ConsoleApplication7\bin\Debug\ConsoleApplication7.pdb
+D:\StudyMaterials\4.Semester\C#\Programming\ConsoleApplication7\ConsoleApplication7\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\StudyMaterials\4.Semester\C#\Programming\ConsoleApplication7\ConsoleApplication7\obj\x86\Debug\ConsoleApplication7.exe
+D:\StudyMaterials\4.Semester\C#\Programming\ConsoleApplication7\ConsoleApplication7\obj\x86\Debug\ConsoleApplication7.pdb
